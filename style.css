@@ -36,10 +36,9 @@ nav a:hover {
   color: #0056b3
 }
 
-#header a{
+#mhlid a{  
   text-decoration: none;
-  color: #ccc;
-}
+  color: #ccc;}
 
 #mhlid a:hover{
   text-decoration: underline;
