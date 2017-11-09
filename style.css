@@ -47,7 +47,7 @@ font-size: 30px}
 }
 
 main{
-  marg-->in-top: 20px;
+  margin-top: 20px;
 }
 
 div.jumbotron {
@@ -83,8 +83,8 @@ div.jumbotron {
 .questions a.btn
 {border-radius: 5px;
 color: #FFF;
-background-color: #007bff;
-border-color: #007bff;
+background-color: #FFC0CB;
+border-color: #FFC0CB;
 text-decoration:none;
 padding: 18px;
 font-size: 20px}
