@@ -38,7 +38,9 @@ nav a:hover {
 
 #mhlid a{
   text-decoration: none;
-  color: #ccc;}
+  color: #ccc;
+font-size: 24px;
+align-self: center;}
 
 #mhlid a:hover{
   text-decoration: underline;
