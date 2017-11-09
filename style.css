@@ -36,14 +36,14 @@ nav a:hover {
 
 }
 
-#mhlid a{
+#mhlid a:inherit;{
   text-decoration: none;
   color: #ccc;
 font-size: 30px}
 
 #mhlid a:hover{
   text-decoration: underline;
-  color: #FFC0CB
+  color: #0056b3
 }
 
 main{
