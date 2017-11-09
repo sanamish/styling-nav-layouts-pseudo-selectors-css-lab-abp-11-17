@@ -42,7 +42,8 @@ nav a:hover {
 }
 
 #mhlid a:hover{
-  text-decoration: overline;
+  text-decoration: underline;
+  color: #0056b3
 }
 #mhlid a:visited {text-transform: uppercase;}
 
